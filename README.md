@@ -1,7 +1,7 @@
-# Python Lab 3: Cosine Similarity of Word Vectors
+# Cosine Similarity of Word Vectors
 
 ## Description
-This lab project involves calculating the cosine similarity between word vectors using a given text file, `FastText100K.txt`, which contains word embeddings. The goal is to find and display the top 5 words most similar to a given word based on their cosine similarity.
+This project, part of my curriculum involves calculating the cosine similarity between word vectors using a given text file, `FastText100K.txt`, which contains word embeddings. The goal is to find and display the top 5 words most similar to a given word based on their cosine similarity.
 
 ## Objective
 The objective of this lab is to:
